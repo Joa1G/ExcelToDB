@@ -82,11 +82,4 @@ docker-compose down
 ```
 
 ---
-
-## 🤖 BotCity
-
-Este projeto pode ser facilmente integrado com BotCity Desktop Automation. Basta envolver o processo no método `action()` do bot.
-
----
-
 Feito com 💻 por João Gabriel Gomes.
